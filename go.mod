@@ -34,10 +34,11 @@ require (
 	github.com/elazarl/go-bindata-assetfs v1.0.0
 	github.com/evanphx/json-patch v4.5.0+incompatible // indirect
 	github.com/fatih/structs v1.1.0
+	github.com/flosch/pongo2 v0.0.0-20190707114632-bbf5a6c351f4 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/gambol99/go-marathon v0.0.0-20180614232016-99a156b96fb2
 	github.com/go-acme/lego/v3 v3.6.0
-	github.com/go-check/check v0.0.0-00010101000000-000000000000
+	github.com/go-check/check v0.0.0-20180628173108-788fd7840127
 	github.com/go-kit/kit v0.9.0
 	github.com/gogo/protobuf v1.3.0 // indirect
 	github.com/golang/protobuf v1.3.4
@@ -53,6 +54,7 @@ require (
 	github.com/libkermit/compose v0.0.0-20171122111507-c04e39c026ad
 	github.com/libkermit/docker v0.0.0-20171122101128-e6674d32b807
 	github.com/libkermit/docker-check v0.0.0-20171122104347-1113af38e591
+	github.com/lxc/lxd v0.0.0-20200502202108-b0fe8375f34e
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/mailgun/ttlmap v0.0.0-20170619185759-c1c17f74874f
 	github.com/miekg/dns v1.1.27
@@ -90,6 +92,8 @@ require (
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
 	gopkg.in/fsnotify.v1 v1.4.7
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
+	gopkg.in/macaroon-bakery.v2 v2.2.0 // indirect
+	gopkg.in/robfig/cron.v2 v2.0.0-20150107220207-be2e0b0deed5 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.17.3
 	k8s.io/apimachinery v0.17.3

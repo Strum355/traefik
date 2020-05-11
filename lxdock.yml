@@ -1,0 +1,8 @@
+name: myproject
+
+containers:
+  - name: test01
+    image: ubuntu/xenial
+
+  - name: test02
+    image: archlinux
